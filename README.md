@@ -1,3 +1,7 @@
+## Why the fork?
+Just to commit the `dist/` directory for installing as an npm package. This is otherwise v1.3.0 untouched.
+
+
 cmapi-1.3.0
 ===========
 Common Map API schemas, examples, JavaScript utilities, and documentation for the CMAPI 1.3.0 specification

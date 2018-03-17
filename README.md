@@ -1,5 +1,6 @@
 ## Why the fork?
-Just to commit the `dist/` directory for installing as an npm package. This is otherwise v1.3.0 untouched.
+Just to commit the `dist/` directory for installing as an npm package, and export
+the schema `cmapi.schema.js` for importing in modules.  This is otherwise v1.3.0 untouched.
 
 
 cmapi-1.3.0

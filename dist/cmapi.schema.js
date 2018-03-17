@@ -2343,3 +2343,4 @@ cmapi.channel["map.view.zoom"] = {
     "required": ["range"]
   }
 };
+export default cmapi
